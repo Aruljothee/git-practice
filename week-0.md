@@ -41,7 +41,7 @@ Docker Compose version v5.5.0
 Postman opens successfully and I am able to sign in.
 
 ## Reflection
-Some commands did not work as expected. I checked the error and fixed the issue.
+Git was a little difficult for me at first. I practiced the commands and understood them better.
 
 \# Day 01 Git Practice
 Today I learned:
