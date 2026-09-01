@@ -12,3 +12,5 @@ Today I learned:
 
 \- git push
 
+Git diff shows the changes made in a file.
+
